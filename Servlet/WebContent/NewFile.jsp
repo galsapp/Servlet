@@ -12,7 +12,7 @@
         Last Name: <input type="text" name="lastName" size="20">
         <br><br>
         <input type="submit" value="Submit">      
-       	**Test
+       	Sending something
 </form> 
 </body>
 </html>
