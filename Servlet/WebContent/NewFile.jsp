@@ -12,7 +12,11 @@
         Last Name: <input type="text" name="lastName" size="20">
         <br><br>
         <input type="submit" value="Submit">
+<<<<<<< HEAD
         //      edztzghn
+=======
+        // sdsadasdasdas     
+>>>>>>> branch 'master' of https://github.com/galsapp/Servlet
 </form> 
 </body>
 </html>
