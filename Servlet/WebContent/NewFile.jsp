@@ -1,17 +1,18 @@
-<%@ page language="java" contentType="text/html; charset=windows-1255"
-    pageEncoding="windows-1255"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="windows-1255">
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-<form action="GrettingServlet" method="POST">
+<form action=" " method="POST">
         First Name: <input type="text" name="firstName" size="20"><br>
         Last Name: <input type="text" name="lastName" size="20">
         <br><br>
         <input type="submit" value="Submit">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -22,11 +23,19 @@
 =======
 >>>>>>> branch 'master' of https://github.com/galsapp/Servlet
 =======
+=======
+        sarah
+>>>>>>> branch 'master' of https://github.com/galsapp/Servlet
                 <input type="submit" value="Submit">
                         <input type="submit" value="Submit">
                                 <input type="submit" value="Submit">
+<<<<<<< HEAD
+                                        <input type="submit" value="Submit">
+>>>>>>> branch 'master' of https://github.com/galsapp/Servlet
+=======
                                         <input type="submit" value="Submit">
 >>>>>>> branch 'master' of https://github.com/galsapp/Servlet
 </form> 
+
 </body>
 </html>
