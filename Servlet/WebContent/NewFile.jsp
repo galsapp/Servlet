@@ -13,9 +13,12 @@
         <br><br>
         <input type="submit" value="Submit">
 <<<<<<< HEAD
+<<<<<<< HEAD
         //      edztzghn
 =======
         // sdsadasdasdas     
+>>>>>>> branch 'master' of https://github.com/galsapp/Servlet
+=======
 >>>>>>> branch 'master' of https://github.com/galsapp/Servlet
 </form> 
 </body>
